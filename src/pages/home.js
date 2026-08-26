@@ -208,23 +208,25 @@ function Home() {
 
               {/* Call & Email Buttons */}
               <div className="d-flex gap-3 justify-content-center" data-aos="fade-up" data-aos-delay="500">
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#callModal"
-                  role="button"
                 >
-                  <i className="bi bi-telephone-fill"></i> Call Us
-                </a>
+                  <i className="bi bi-telephone-fill"></i>
+                  Call Us
+                </button>
 
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#emailModal"
-                  role="button"
                 >
-                  <i className="bi bi-envelope-fill"></i>Email Us
-                </a>
+                  <i className="bi bi-envelope-fill"></i>
+                  Email Us
+                </button>
 
               </div>
             </div>
@@ -257,18 +259,25 @@ function Home() {
 
               {/* Call & Email Buttons */}
               <div className="d-flex gap-3 justify-content-center" data-aos="fade-up" data-aos-delay="500">
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#callModal"
-                  role="button"
                 >
-                  <i className="bi bi-telephone-fill"></i> Call Us
-                </a>
+                  <i className="bi bi-telephone-fill"></i>
+                  Call Us
+                </button>
 
-                <a className="btn btn-outline-light d-flex align-items-center gap-2" data-bs-toggle="modal" data-bs-target="#emailModal" role="button">
-                  <i className="bi bi-envelope-fill"></i>Email Us
-                </a>
+                <button
+                  type="button"
+                  className="btn btn-outline-light d-flex align-items-center gap-2"
+                  data-bs-toggle="modal"
+                  data-bs-target="#emailModal"
+                >
+                  <i className="bi bi-envelope-fill"></i>
+                  Email Us
+                </button>
               </div>
             </div>
           </div>
@@ -299,23 +308,25 @@ function Home() {
 
               {/* Call & Email Buttons */}
               <div className="d-flex gap-3 justify-content-center" data-aos="fade-up" data-aos-delay="500">
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#callModal"
-                  role="button"
                 >
-                  <i className="bi bi-telephone-fill"></i> Call Us
-                </a>
+                  <i className="bi bi-telephone-fill"></i>
+                  Call Us
+                </button>
 
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#emailModal"
-                  role="button"
                 >
-                  <i className="bi bi-envelope-fill"></i>Email Us
-                </a>
+                  <i className="bi bi-envelope-fill"></i>
+                  Email Us
+                </button>
               </div>
             </div>
           </div>
@@ -346,23 +357,25 @@ function Home() {
 
               {/* Call & Email Buttons */}
               <div className="d-flex gap-3 justify-content-center" data-aos="fade-up" data-aos-delay="500">
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#callModal"
-                  role="button"
                 >
-                  <i className="bi bi-telephone-fill"></i> Call Us
-                </a>
+                  <i className="bi bi-telephone-fill"></i>
+                  Call Us
+                </button>
 
-                <a
+                <button
+                  type="button"
                   className="btn btn-outline-light d-flex align-items-center gap-2"
                   data-bs-toggle="modal"
                   data-bs-target="#emailModal"
-                  role="button"
                 >
-                  <i className="bi bi-envelope-fill"></i>Email Us
-                </a>
+                  <i className="bi bi-envelope-fill"></i>
+                  Email Us
+                </button>
               </div>
             </div>
           </div>
