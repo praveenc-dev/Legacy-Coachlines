@@ -163,7 +163,7 @@ function footer() {
 
 
       {/*  whats app sticky icons   */}
-      <a href="https://wa.me/6476876161?text=Enquiry For Construction" class="whatsapp-icon" target="_blank" title="Chat with us on WhatsApp">
+      <a href="https://wa.me/6476876161?text=Enquiry For Construction" class="whatsapp-icon" rel="noreferrer" target="_blank" title="Chat with us on WhatsApp">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
       </a>
 
