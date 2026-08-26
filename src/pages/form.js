@@ -3,7 +3,7 @@ import { Container, Row, Col, Form, Button,Alert,Spinner } from "react-bootstrap
 import Flatpickr from 'react-flatpickr';
 function TripForm() {
 
-      const pad = (n) => (n < 10 ? '0' + n : n);
+      // const pad = (n) => (n < 10 ? '0' + n : n);
     
       // Helper format functions
       const formatDate = (date) => {
